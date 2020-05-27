@@ -6,7 +6,8 @@
         这是在开源软件方向中，了解到的最新的开源指令集RISC-V。本次实验采用开发板是《Longan Nano RISC-V GD32VF103CBT6 
     单片机带液晶显示屏开发板》。板上的资源有一个三色的LED灯，和一块小液晶屏。开发软件采用芯来科技提供的Nuclei Studio 
     IDE,非sipeed 矽速科技提供的vscode。由于学校封了，连串口下载器都没，采用的是USB DFU来下载（条件艰苦 └(^o^)┘）。虽然
-    第一次编写FreeRTOS应用，但多年来积攒下来零碎的Linux编程经验，从配置到跑起来大概花了3天左右。
+    第一次编写FreeRTOS应用，但多年来积攒下来零碎的Linux编程经验，从配置到跑起来大概花了3天左右。本人会抽时间写一下博客分
+    享一下心得，敬请期待。。。。。
     
          本次实验将实现对三色的LED灯作为临界资源进行控制，实验内容有：
     
@@ -31,6 +32,7 @@
         
     Nuclei Studio IDE下载地址：https://www.nucleisys.com/download.php
     USB DFU下载工具：https://dl.sipeed.com/LONGAN/Nano/Tools
+    个人博客：更新中....
     
        
 
