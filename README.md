@@ -13,7 +13,8 @@
     5、条件分别是：计数节拍值能够被3整除，ledR_task获得控制权；被5整除，ledG_task获得控制权；被7整除，ledB_task获得控
     制权
     6、ledR_task获取资源后占用5个计数节拍， ledG_task获取资源后占用7个计数节拍， ledB_task获取资源后占用3个计数节拍。
-![好尴尬吖](/blob/master/sylct.GIF “任务流程图”)
+[![weibo-logo]](http://weibo.com/linpiaochen)
+![好尴尬吖](sylct.GIF)
 # 注意，本次实验没有采用串口以及jtag进行调试，实时性不是很准。
 
 
