@@ -13,7 +13,7 @@
     5、条件分别是：计数节拍值能够被3整除，ledR_task获得控制权；被5整除，ledG_task获得控制权；被7整除，ledB_task获得控
     制权
     6、ledR_task获取资源后占用5个计数节拍， ledG_task获取资源后占用7个计数节拍， ledB_task获取资源后占用3个计数节拍。
-![好尴尬吖](URL 任务流程图)
+![好尴尬吖](https://github.com/tamir-li/LONGAN_Freertos/blob/master/%E5%AE%9E%E9%AA%8C%E6%B5%81%E7%A8%8B%E5%9B%BE.PNG 任务流程图)
 # 注意，本次实验没有采用串口以及jtag进行调试，实时性不是很准。
 
 
